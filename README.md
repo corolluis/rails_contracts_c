@@ -6,9 +6,11 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+
 Ruby 3.0.0
 
 * System dependencies
+
 'rails', '~> 6.1.5'
 'mysql2', '~> 0.5'
 'puma', '~> 5.0'
@@ -17,7 +19,6 @@ Ruby 3.0.0
 'turbolinks', '~> 5'
 'jbuilder', '~> 2.7'
 'bootsnap', '>= 1.4.4'
-'byebug', platforms: [:mri, :mingw, :x64_mingw]
 'web-console', '>= 4.1.0'
 'rack-mini-profiler', '~> 2.0'
 'listen', '~> 3.3'
